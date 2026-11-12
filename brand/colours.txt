@@ -1,0 +1,36 @@
+# EmpowerHER With Megs — colours
+# Collected 12 Nov 2026 from the official logo PNG and the live Lenus theme CSS
+# at https://empowerherwithmegs.com/ (source/website/style.css).
+# Do not use Linktree default greens or any other third-party palette.
+
+# From logo-navigation.png (sampled from the wordmark, nearest 8-bit bucket):
+LOGO_PINK           #F860C0    rgb(248, 96, 192)   dominant “EMPOWERHER” fill
+LOGO_PINK_NEAR      #F868C0    rgb(248, 104, 192)  antialias / highlight
+LOGO_BLACK          #000000    rgb(0, 0, 0)        logo background
+LOGO_WHITE          #FFFFFF    rgb(255, 255, 255)  “With Megs x” script and rules
+
+# From live CSS custom properties (not guesses — these are the theme tokens):
+ACCENT_PINK         #FF66C4    rgb(255, 102, 196)  --hero-headlines-textColor, --statement-text-color,
+                                                   --steps-number-background-color, --calculator-button-background-color,
+                                                   --ty-steps-number-background-color
+                                                   (very close to the sampled logo pink; prefer this for UI)
+BLACK               #000000    rgb(0, 0, 0)        --coach-color, --text-color, --button-background-color, --footer-text-color
+WHITE               #FFFFFF    rgb(255, 255, 255)  --base-color, --button-text, --app-background-color
+NAV_TEXT            #312E2E    rgb(49, 46, 46)     --nav-text-color
+ACTIVE_NAV_TEXT     #FFFFFF    rgb(255, 255, 255)  --active-nav-text-color
+HEADLINE            #000000    rgb(0, 0, 0)        --headline-text-color
+CALCULATOR_BG       #F9F9F8    rgb(249, 249, 248)  --calculator-background-color
+COUNTDOWN_BG        #000000    rgb(0, 0, 0)
+COUNTDOWN_TEXT      #FFFFFF    rgb(255, 255, 255)
+
+# Also present in the compiled CSS (used in graphics / some components; confirm before treating as core brand):
+DUSTY_ROSE          #994C6D    rgb(153, 76, 109)
+MAUVE               #D5A6BD    rgb(213, 166, 189)
+SAGE                #5A8060    rgb(90, 128, 96)
+SAGE_DARK           #405844    rgb(64, 88, 68)
+BLUSH               #FFE8F6    rgb(255, 232, 246)  (#FFE8F6FF in CSS)
+WARM_OFFWHITE       #FDF8F5    rgb(253, 248, 245)
+WARM_OFFWHITE_2     #FFFCFA    rgb(255, 252, 250)
+
+# Flag — possibly a leftover Lenus theme default, not obviously used as a brand colour on the homepage:
+SITE_TITLE_BLUE     #285DE5    rgb(40, 93, 229)    --site-title-color  (do not lead with this unless Megs confirms)

@@ -1,0 +1,151 @@
+# EmpowerHER With Megs (Megan Ward) — photo shot list
+# Collected 12 Nov 2026, anonymous only (no Instagram login).
+# Instagram: @empowerwithmegs  https://www.instagram.com/empowerwithmegs/
+# Official website stills: original files from https://empowerherwithmegs.com/ (fetched after the Simply.com WAF check passed).
+# Instagram stills: public original media, full frame as posted (portrait 1080×1350 or square 1080×1080). NOT square thumbnails/crops unless the original post was square.
+# JPEGs / PNGs in this pack are exact copies (not re-encoded).
+# Dimensions below are of the file saved here.
+#
+# TEXT OVERLAY KEY
+#   NONE        = no text added by Instagram or an editing app
+#   SCENE TEXT  = only real-world text in the photo (kit logos, posters, food tubs, street signs)
+#   OVERLAY     = text / stickers / labels added on top of the photo  <-- Jack’s 12 Nov 2026 rule: avoid where possible
+#   DATE/HEART  = website transformation graphics: date stamps and pink heart face-covers
+#
+# CLEAN PHOTOS FIRST. Only 4 stills in the pack have TEXT: NONE, and they are all from the same official
+# website photoshoot (shutter-door backdrop). Every Instagram still that was decent enough to include
+# has an OVERLAY — they are here only because no clean alternative of similar use was available
+# (81 of her 93 Instagram posts could not be reached anonymously). Filenames with -OVERLAY flag this.
+#
+# Skipped on purpose: bikini / underwear “get to know me” self-transformation slide (DF-0ieRMOlA);
+# a close sports-bra selfie that was more revealing than useful (Dcd-wCxDGMe); typography-only
+# graphics; the entire “Just checking in girly” carousel (same close-up, heavy pink captions on every
+# slide); quote-card / price-promo slides with little photo value.
+
+# =============================================================================
+# CLEAN — official website (no text overlay)
+# =============================================================================
+
+photos/hero-01-portrait-desktop.jpg  1000x850  TEXT: NONE
+  Source: https://empowerherwithmegs.com/  — CSS --hero-section-image: url(assets/images/hero-bg-desktop.jpg)
+  What: Official desktop hero. Megan smiling, mid-shot, hands on hips, black zip jacket over a black top, long dark hair, corrugated metal shutter behind. No text.
+  Suggested use: HERO (desktop). Best clean smiling portrait in the pack.
+  Notes: Same photoshoot as hero-02, about-me-01 and about-me-02. Relatively modest resolution (1000×850).
+
+photos/hero-02-portrait-mobile.jpg  798x1200  TEXT: NONE
+  Source: https://empowerherwithmegs.com/  — CSS --mobile-img: url(assets/images/hero-bg-mobile.jpg)
+  What: Official mobile hero. Tighter portrait crop of the same smiling shutter-door shot, more of the torso and hands-on-hips pose visible. No text.
+  Suggested use: HERO (mobile) or about-me. Clean, and the better vertical crop of the two hero files.
+  Notes: 798×1200 — slightly narrower than a typical 4:5 IG still.
+
+photos/about-me-01-stretch.jpg  800x1200  TEXT: NONE
+  Source: https://empowerherwithmegs.com/  — assets/images/About-V1.jpg
+  Alt text on the site: “The coach is posing while she is stretching.”
+  What: Megan in all black (zip jacket, ribbed leggings, trainers), long hair, crouched / stretching lunge against the same shutter door, looking off to her left. No text. Fully clothed, suitable for a business site.
+  Suggested use: About-me, secondary hero, or lifestyle/action. Best full-body clean photo.
+  Notes: 800×1200. Same shoot as the hero portraits.
+
+photos/about-me-02-featured.jpg  1200x630  TEXT: NONE (designed fade, not text)
+  Source: https://empowerherwithmegs.com/  — assets/images/featured.jpg (also the Open Graph / og:image)
+  What: Smiling close crop of the same shutter-door portrait, with soft faded / blurred light-grey edges left and right (a designed OG/featured treatment, not a typographic overlay).
+  Suggested use: Social share / OG image, or a landscape about crop. Prefer hero-01 or hero-02 on the actual site hero — those have no faded edges.
+  Notes: 1200×630 (1.91:1). No words on the image.
+
+# =============================================================================
+# OVERLAY — Instagram stills, included only because no clean alternative of similar use was available
+# =============================================================================
+
+photos/about-me-03-brickwall-OVERLAY.jpg  1080x1080  TEXT: OVERLAY
+  Source: https://www.instagram.com/p/DF-0ioFsrTf/  slide 1 / cover (child DF-0ieXs8wc), 12 Feb 2025
+  Caption starts: “Here is my journey and what I have achieved”
+  What: Megan sitting against a grey brick wall, black zip jacket and black leggings, smiling at camera. Different location from the official shutter shoot — useful variation.
+  Overlay: large “GET TO KNOW ME” plus hugging-face and heart-hands emojis and “SWIPE TO LEARN MORE”.
+  Suggested use: About / story section only if you accept the overlay. Do not use as the main hero — clean shutter portraits exist for that.
+  Notes: Original post is square. Mid-res JPEG (79,668 bytes).
+
+photos/lifestyle-01-outdoor-red-leggings-OVERLAY.jpg  1080x1080  TEXT: OVERLAY
+  Source: https://www.instagram.com/p/DF-0ioFsrTf/  slide 2 (child DF-0iedMgyo), 12 Feb 2025
+  What: Megan sitting on a concrete ledge in a paved courtyard (bikes, trees, a railed building behind), black jacket, bright red ribbed leggings, black trainers, one hand in her hair, smiling.
+  Overlay: large white caption box, upper right: “Heyyyy there👋😊 So, for those who don’t really know anything about me, this post will give you a bit more of an insight on who I am and what my own personal health and fitness journey has been like…ENJOY 💗”
+  Suggested use: Lifestyle / about, only with the overlay flagged. Strong colour contrast (red leggings) under the text.
+  Notes: Original post is square. No clean version of this pose was found.
+
+photos/gym-01-selfie-black-OVERLAY.jpg  1080x1350  4:5  TEXT: OVERLAY (+ white cut-out sticker)
+  Source: https://www.instagram.com/p/DdW_O25jCen/  slide 2 (child DdW_DYTMIEe), 16 Sep 2026
+  Caption is an Autumn Reset “things we are NOT doing this autumn” carousel.
+  What: Mirror gym-floor selfie, commercial gym (racks, cable machines, decorative gold screen, teal wall). Megan in a black halter sports bra and black trousers, AirPods, phone in hand. Gym environment is useful.
+  Overlay: pink handwritten “Things we are NOT doing this autumn”, a pink arrow, spark marks, and a white die-cut outline around her body.
+  Suggested use: Gym / training only if you accept the overlay and the sports-bra / midriff. There is no clean gym-floor still in the 12 posts we could reach.
+  Notes: Flag as somewhat revealing (halter sports bra, midriff, sternum tattoo visible). Skip if the preview site should stay more covered. Cover slide of the same carousel is a very similar pose; this child is the one saved.
+
+photos/gym-02-selfie-red-OVERLAY.jpg  1080x1350  4:5  TEXT: OVERLAY
+  Source: https://www.instagram.com/p/DcPDmMsDBII/  slide 2 (child DcPCq5gs8ev), 19 Aug 2026
+  Caption is the EmpowerHER In 8 Autumn Reset price post.
+  What: Mirror gym selfie, different corner of a commercial gym (plywood / chipboard wall, squat rack). Megan in a red wrap sports bra, black shorts, cream trainers with black stripes, AirPods, phone in hand.
+  Overlay: “How many more times are you going to say…” plus a pill “Monday. I’ll start Monday.” and pink “Before another 8 weeks passes you by…”
+  Suggested use: Gym / offer section only with the overlay flagged. Same sports-bra caveat as gym-01. Variation in outfit and gym corner.
+  Notes: 4:5 as posted.
+
+photos/training-01-hip-thrust-OVERLAY.jpg  1080x1350  4:5  TEXT: OVERLAY
+  Source: https://www.instagram.com/p/DceQgIOjJDg/  slide 5 (child Dcd-wC7jO9y), 25 Aug 2026
+  What: Megan in a grey crop and black shorts doing a hip thrust / belt-squat style movement on a machine labelled XCENTR, loaded with black and red bumper plates. The left half of the frame is greyscale, the right half is colour.
+  Overlay: “Punishment” (red pill) with an arrow to “Movement You Enjoy” (pink pill).
+  Suggested use: Training / action. Best actual lifting still we have, but it is a labelled split-graphic, not a clean photo. Hip-thrust angle is typical gym content; flag the crop / pose if you want a more conservative site.
+  Notes: 64,126 bytes — a bit lighter than the other 1080×1350 stills (likely a reel-frame or compressed export), but still usable. SCENE TEXT: XCENTR on the machine.
+
+photos/action-01-urban-race-OVERLAY.jpg  1080x1350  4:5  TEXT: OVERLAY (+ scene text on event branding)
+  Source: https://www.instagram.com/p/DceQgIOjJDg/  slide 7 (child Dcd-wCuDPfh), 25 Aug 2026
+  What: Split graphic from an outdoor event. Left (greyscale): another woman in a white tank and black shorts, holding a “FINISHER” poster, smiling, under truss and barriers. Right (colour): Megan in a black sports bra and black shorts, pink trainers, holding a medal/card, in front of a backdrop reading “THE URBAN RACE” / “ATHLETE OF ATHENA” / “BY ATHENA” / “FINISHER”.
+  Overlay: “Chasing The Scales” (red) with an arrow to “Celebrating ALL Progress” (pink).
+  Suggested use: Action / lifestyle / community. Do **not** present the left-hand woman as a before/after of Megan — she appears to be a different person (possibly a client or fellow finisher). Confirm with Megs before captioning her. Right-hand side is clearly Megan.
+  Notes: London event branding (“THE URBAN RACE LON…”). Sports bra on the right — flag. Scene text: event banners.
+
+photos/lifestyle-02-dog-lake-OVERLAY.jpg  1080x1350  4:5  TEXT: OVERLAY
+  Source: https://www.instagram.com/p/DdW_O25jCen/  slide 7 (child DdW_DRGs-Pm), 16 Sep 2026
+  What: A golden dog in an orange harness, seen from behind, sitting on a pebbly shore looking out over a lake and hills (consistent with her 22 Sep 2026 Lake District holiday reel). Moody cloudy sky. No person in frame.
+  Overlay: pink “TRYING TO BE PERFECT” and white script “We are aiming for consistency, NOT perfection. Because the women who get results aren’t perfect… They just know how to keep going when life be lifing.”
+  Suggested use: Lifestyle. Nice photograph under heavy typography. No clean version found.
+
+photos/lifestyle-03-dog-icecream-OVERLAY.jpg  1080x1350  4:5  TEXT: OVERLAY (+ scene text on the ice-cream tub)
+  Source: https://www.instagram.com/p/DdW_O25jCen/  slide 3 (child DdW_DImM0Ty), 16 Sep 2026
+  What: The same (or a similar) tan-and-black dog in an orange harness on a pebbly lakeshore, licking a “THREE HILLS” ice-cream tub held in a person’s hand (Megs’ hand/sleeve).
+  Overlay: pink “CRASH DIETING” and “We are NOT eating 1000 calories because we want results “faster”. Fuel your body. Train intentionally. Get results.”
+  Suggested use: Lifestyle / values (food freedom) if you accept the overlay. Complementary to lifestyle-02.
+  Notes: Scene text: THREE HILLS on the tub.
+
+photos/lifestyle-04-friends-OVERLAY.jpg  1080x1350  4:5  TEXT: OVERLAY
+  Source: https://www.instagram.com/p/DdW_O25jCen/  slide 4 (child DdW_DYysH5P), 16 Sep 2026
+  What: Night-out selfie, three women, green party lighting. Megan is on the left (pearl jewellery). Two friends in the middle and right.
+  Overlay: pink “MAKING UP FOR WEEKENDS” and “You had a meal out? You had a treat? You enjoyed an event? GOOD! We are NOT punishing ourselves for living our lives.”
+  Suggested use: Lifestyle / community, only with the overlay flagged. Other people’s faces are clearly visible — already posted by her, but check she is happy to reuse friends’ faces on a business site.
+  Notes: Heavy typography sits over the faces.
+
+photos/training-02-younger-lifting-collage-OVERLAY.jpg  1080x1080  TEXT: OVERLAY
+  Source: https://www.instagram.com/p/DF-0ioFsrTf/  slide 4 (child DF-0ieRMOZ3), 12 Feb 2025
+  What: Five-photo collage of a younger Megan training in a commercial gym: landmine / bar press, a kneeling hip-thrust, a cable squat, a machine press, and a yellow-bumper deadlift. Kit includes Gymshark blue/grey leggings and a later burgundy set. The caption on the slide says this was her as a teenager working with her own PT (“at 16 I reached out to a personal trainer… I then went onto studying and qualifying to be a PT”). So this is **her own training as a client, years ago**, not her coaching someone.
+  Overlay: a large central caption block covering the middle of the collage (the 16-year-old PT story).
+  Suggested use: About / “my journey” only. Tight gymwear in some panels — flag. Do not present as current coaching-session photography.
+  Notes: Original is square. Form-fitting clothing; not bikini, but less conservative than the shutter portraits.
+
+# =============================================================================
+# COMPARISONS — official website client transformations
+# =============================================================================
+
+comparisons/client-transformation-01.jpg  700x700  TEXT: DATE/HEART overlays
+  Source: https://empowerherwithmegs.com/  — assets/images/transformation-1.jpg  (alt: “Transformation 1”)
+  What: Six-panel (3+3) front / side / back of a female client. Top row dated “4 May 2025” in a grey sports bra and black leggings; bottom row dated “5 Oct 2025” in a dark bra and briefs. Faces covered with bright pink hearts.
+  Overlay: date stamps on every panel + pink heart face covers (not a slogan overlay).
+  Suggested use: Before/after. Already published on her own site, but: (1) after shots are underwear / revealing — confirm she wants them on the preview site; (2) faces are covered, still a real client — assume the site publication is consent, but Jack may still want a verbal confirm; (3) modest resolution (700×700).
+  Preferred more-modest alternative in this pack: client-transformation-03.
+
+comparisons/client-transformation-02.jpg  700x700  TEXT: HEART overlays + logo tile
+  Source: https://empowerherwithmegs.com/  — assets/images/transformation-2.jpg  (alt: “Transformation 2”)
+  What: Five photos of a female client in black sports bra and briefs (two “before” mirror selfies, three “after” standing shots) plus one black tile with the EmpowerHER With Megs logo. Faces covered with pink hearts. No date stamps.
+  Overlay: pink heart face covers; official logo on the sixth tile.
+  Suggested use: Before/after, with the same consent / revealing-shot caveats as #01. Underwear in every panel.
+
+comparisons/client-transformation-03.jpg  700x700  TEXT: DATE/HEART overlays
+  Source: https://empowerherwithmegs.com/  — assets/images/transformation-3.jpg  (alt: “Transformation 3”)
+  What: Six-panel front / side / back. Top row dated “5 Dec 2024”, maroon sports bra and grey leggings (waistband reads HIIT). Bottom row dated “23 Mar 2025”, dark zip sports bra and black leggings. Faces covered with pink hearts.
+  Overlay: date stamps + pink heart face covers.
+  Suggested use: Before/after. **The most modest of the three official transformations** (leggings in both rows, no underwear). Prefer this one if the preview site should stay conservative.

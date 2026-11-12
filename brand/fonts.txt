@@ -1,0 +1,18 @@
+# EmpowerHER With Megs — fonts
+# Collected 12 Nov 2026.
+
+# FROM THE LIVE SITE (not guesses) — CSS variables on https://empowerherwithmegs.com/:
+#   --primary-font-family: 'Poppins'
+#   --secondary-font-family: 'Poppins'
+#   --text-font-family: 'Poppins'
+# The whole Lenus theme is set to Poppins. Confirm the licence / Google Fonts cut if you rebuild.
+
+# LOGO FONTS — GUESSES ONLY (the wordmark is a raster PNG, 311×114, no webfont or SVG outlines):
+#   “EMPOWERHER” — heavy italic / slightly condensed sans-serif in hot pink.
+#     Looks in the neighbourhood of Impact Italic, Anton, or Montserrat ExtraBold Italic.
+#     This is a GUESS. Do not treat as confirmed.
+#   “With Megs x” — light white script / signature style, between two thin horizontal rules.
+#     Looks in the neighbourhood of Satisfy, Great Vibes, Allura or a similar formal script.
+#     This is a GUESS. Do not treat as confirmed.
+#
+# Ask Megs for the original logo file (SVG / PDF / AI) and the exact typefaces if she has them.
